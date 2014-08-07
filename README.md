@@ -3,6 +3,14 @@ python-for-zombies
 
 Online Python course by Fernando Masanori Ashikaga and contributors.
 
+Contributing
+------------
+The images etc. should be accessible from the root. The translations should
+be kept in their separate folders.
+
+We eventually want to have some sort of build script to create Reveal.js
+presentation.
+
 License
 -------
 Creative Commons Share Alike
